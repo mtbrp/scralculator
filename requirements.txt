@@ -1,5 +1,3 @@
-requirements_stats_explorer
-
 streamlit
 numpy
 pandas
