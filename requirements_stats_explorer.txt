@@ -1,8 +1,0 @@
-requirements_stats_explorer
-
-streamlit
-numpy
-pandas
-matplotlib
-seaborn
-scipy
